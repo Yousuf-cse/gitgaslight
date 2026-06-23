@@ -1,51 +1,144 @@
-# React + Vite + CRXJS
+### Let's make a fool of you
 
-This template helps you quickly start developing Chrome extensions with React and Vite. It includes the CRXJS Vite plugin for seamless Chrome extension development.
+# gitgaslight
 
-## Features
 
-- React with modern syntax
-- Vite build tool
-- CRXJS Vite plugin integration
-- Chrome extension manifest configuration
+> Because sometimes your contribution graph is just... a little *too* honest.
 
-## Quick Start
+You know that beautiful little green square garden on your GitHub profile?
 
-1. Install dependencies:
+Yeah.
 
-```bash
-npm install
-```
+This extension politely disagrees with it.
 
-2. Start development server:
+It takes your contribution graph and tells your browser:
 
-```bash
-npm run dev
-```
+> "What if we just... didn't?"
 
-3. Open Chrome and navigate to `chrome://extensions/`, enable "Developer mode", and load the unpacked extension from the `dist` directory.
+Green squares become empty.
 
-4. Build for production:
+Empty squares become green.
 
-```bash
-npm run build
-```
+Reality stays exactly the same.
 
-## Project Structure
+Your motivation? Debatable.
 
-- `src/popup/` - Extension popup UI
-- `src/content/` - Content scripts
-- `manifest.config.js` - Chrome extension manifest configuration
+---
 
-## Documentation
+## Before you get any ideas...
 
-- [React Documentation](https://reactjs.org/)
-- [Vite Documentation](https://vitejs.dev/)
-- [CRXJS Documentation](https://crxjs.dev/vite-plugin)
+No.
 
-## Chrome Extension Development Notes
+This does **not** hack GitHub.
 
-- Use `manifest.config.js` to configure your extension
-- The CRXJS plugin automatically handles manifest generation
-- Content scripts should be placed in `src/content/`
-- Popup UI should be placed in `src/popup/`
+No, it won't magically create a 365-day streak.
+
+No recruiter is going to think you're the next open-source legend.
+
+No one else can see it.
+
+Only **you** get to live in this alternate universe.
+
+---
+
+## What actually happens?
+
+Your browser finds the tiny SVG squares on your GitHub profile and swaps their colors.
+
+That's it.
+
+No APIs.
+
+No databases.
+
+No secret GitHub exploits.
+
+Just a tiny identity crisis for your contribution graph.
+
+---
+
+## Why?
+
+Excellent question.
+
+Maybe you:
+
+* want to see what the opposite of your graph looks like.
+* enjoy building browser extensions.
+* needed a weekend project.
+* lost an argument and decided this was the appropriate response.
+* were curious whether this could even be done.
+
+Any of those are valid.
+
+---
+
+## Built with
+
+* React
+* TypeScript
+* Vite
+* CRXJS
+* Poor life choices
+
+---
+
+## Installation
+
+Clone it.
+
+Install dependencies.
+
+Run it.
+
+Load the extension.
+
+Open GitHub.
+
+Question your decisions.
+
+---
+
+## Roadmap
+
+* Toggle switch
+* Dark mode support
+* Custom color themes
+* More ways to confuse yourself
+* Features nobody asked for but someone will definitely use
+
+---
+
+## Known issues
+
+If GitHub changes how the contribution graph works...
+
+...I'll pretend everything is fine for about five minutes.
+
+Then I'll fix it.
+
+Probably.
+
+---
+
+## Contributing
+
+Found a bug?
+
+Open an issue.
+
+Found a better joke?
+
+Even better.
+
+Found a way to actually change GitHub's real contribution graph?
+
+Please don't. That's probably illegal.
+
+---
+
+## License
+
+MIT.
+
+Go build something weird.
